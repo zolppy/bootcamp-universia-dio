@@ -1,0 +1,1 @@
+Gostei do "Tailwind: O Lado Utilitário da Força". Crie um prompt em inglês que instrua o Gemini a gerar uma imagem para a capa do livro que faça jus a esse título. Gere apenas o prompt. A capa deve conter, ainda, o nome do autor "Gabriel Cavalcante", além de estar em formato de pixel.
