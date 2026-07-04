@@ -1,1 +1,0 @@
-Preciso de um título em português para um e-book sobre Tailwind CSS, o material é do nicho de programação, tendo Tailwind CSS como tema, o título deve ser épico e curto, tendo uma temática de Star Wars. Me liste 5 potenciais títulos.
